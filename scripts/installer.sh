@@ -1,6 +1,6 @@
 #!/bin/bash
 
 cd
-sudo cp $HOME/Deauth-packets-injection/scripts/deauth_wireless_attack.sh /etc/
-sudo cp $HOME/Deauth-packets-injection/scripts/dwa /bin/
-sudo chmod u+x /bin/dwa
+sudo cp $HOME/Ports-checker/scripts/ports.sh /etc/
+sudo cp $HOME/Ports-checker/scripts/ports  /bin/
+sudo chmod u+x /bin/ports
